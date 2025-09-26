@@ -1,0 +1,14 @@
+Region,Quarter,OrderID,CustID,OrderDate,ProductID,ProductName,Category,Quantity,UnitPrice,LineTotal
+East,Q1,101,1,2025-01-05,201,Laptop,Electronics,1,1200,1200
+East,Q1,101,1,2025-01-05,203,Headphones,Accessories,2,120,240
+East,Q1,102,1,2025-02-10,202,Phone,Electronics,1,800,800
+East,Q1,108,5,2025-03-29,202,Phone,Electronics,1,800,800
+North,Q1,106,3,2025-01-22,205,Keyboard,Accessories,3,60,180
+North,Q1,107,3,2025-03-14,203,Headphones,Accessories,1,120,120
+North,Q2,111,7,2025-05-09,203,Headphones,Accessories,1,120,120
+North,Q2,112,7,2025-06-12,201,Laptop,Electronics,2,1200,2400
+North,Q2,112,7,2025-06-12,202,Phone,Electronics,1,800,800
+South,Q1,109,8,2025-01-07,205,Keyboard,Accessories,2,60,120
+South,Q1,104,4,2025-03-01,204,Monitor,Electronics,2,300,600
+West,Q1,103,2,2025-01-15,201,Laptop,Electronics,1,1200,1200
+West,Q2,110,2,2025-04-18,201,Laptop,Electronics,1,1200,1200
