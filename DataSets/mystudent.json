@@ -1,0 +1,44 @@
+[
+  {
+    "studentId": 1,
+    "studentName": "Amit Sharma",
+    "city": "Delhi",
+    "course": "Computer Science",
+    "fee": 55000
+  },
+  {
+    "studentId": 2,
+    "studentName": "Priya Mehta",
+    "city": "Mumbai",
+    "course": "Information Technology",
+    "fee": 60000
+  },
+  {
+    "studentId": 3,
+    "studentName": "Rahul Verma",
+    "city": "Bengaluru",
+    "course": "Electronics",
+    "fee": 52000
+  },
+  {
+    "studentId": 4,
+    "studentName": "Sneha Iyer",
+    "city": "Chennai",
+    "course": "Mechanical Engineering",
+    "fee": 58000
+  },
+  {
+    "studentId": 5,
+    "studentName": "Arjun Singh",
+    "city": "Kolkata",
+    "course": "Civil Engineering",
+    "fee": 57000
+  },
+  {
+    "studentId": 6,
+    "studentName": "Neha Gupta",
+    "city": "Pune",
+    "course": "Data Science",
+    "fee": 65000
+  }
+]
